@@ -1,5 +1,5 @@
 # Teste de Angular FullStak
-Na raiz do repositório esta o layout final que dever ser desenvolvido no Angular. Separado os arquivos
+Na raiz do repositório esta o layout final, que dever ser desenvolvido no front.
 
 # DotNet
 Criar API´S
