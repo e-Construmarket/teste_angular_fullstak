@@ -18,4 +18,4 @@ Consiste em duas telas:
 - Listagem de Salas
 	- Essa etapa serão três etapas:
 
-**Desenvolva da sua forma, sem adicionar itens prontos desenvolvidos por terceiros.
+**Desenvolva da sua forma, sem adicionar itens prontos e desenvolvidos por terceiros.
