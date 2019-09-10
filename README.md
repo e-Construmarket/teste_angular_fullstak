@@ -1,4 +1,5 @@
 # Teste de Angular FullStak
+Na raiz do repositório esta o layout final que dever ser desenvolvido no Angular. Separado os arquivos
 
 # DotNet
 Criar API´S
@@ -17,5 +18,9 @@ Consiste em duas telas:
 
 - Listagem de Salas
 	- Essa etapa serão três etapas:
+	
+
+## Entrega
+Ao finalizar submeter o arquivo via pullrequest neste mesmo repositório. Informa a pessoa que lhe enviou o teste para verificação.
 
 **Desenvolva da sua forma, sem adicionar itens prontos e desenvolvidos por terceiros.
